@@ -1,2 +1,2 @@
-# ESWA_HCGN
+# Coming soon
 A GCN for HSI classification
