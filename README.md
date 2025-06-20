@@ -19,5 +19,5 @@ If you want to run the code in your own data, you can accordingly change the inp
 
 If you encounter the bugs while using this code, please do not hesitate to contact us.
 
-If emergency, you can also add my email: liaodiling2020@163.com or QQ: 3097264896.
+If emergency, you can also add my email: liaodling@mail2.sysu.edu.cn or QQ: 3097264896.
 
