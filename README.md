@@ -1,6 +1,6 @@
 # HCGN
 This an official Pytorch implementation of our paper ["Hybrid CNN-GCN Network for Hyperspectral Image Classification"]]. The specific details of the framework are as follows.
-![HCGN](./HCGN.png)
+![HCGN](./HCGN.PNG)
 ****
 
 Abstract: In recent years, convolutional neural networks (CNNs) have been impressive due to their excellent feature representation abilities, but it is difficult to learn long-distance spatial structures information. Unlike CNN, graph convolutional networks (GCNs) can well handle the intrinsic manifold structures of hyperspectral images (HSIs). However, the existing GCN-based classification methods do 
